@@ -1,6 +1,7 @@
 
 /**
- * This program is developed by InTeGraTeDCodeTechX and Group-5 members
+ * This program is developed by keemsisi
+ * A java implementation of quicksort... 
  */
 
 import javafx.application.Application;
